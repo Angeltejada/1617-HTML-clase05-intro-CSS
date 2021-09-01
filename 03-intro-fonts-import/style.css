@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Dynalight&display=swap');
+
+
+
+h1,p {
+    color: salmon;
+    font-family: 'Dynalight', cursive;
+    
+}
+
+
+h1 {
+    font-weight: 100;
+    font-size: 2em;
+
+
+}
+p {
+    color: sandybrown;
+    font-weight: 900;
+    font-size: 3em;
+}
+.pixel {
+    font-size: 48px;
+}

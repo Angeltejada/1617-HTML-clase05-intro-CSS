@@ -1,0 +1,18 @@
+/* podemos poner el mismo estilo a varias cosas distintas, separando con una coma */
+
+h1,p {
+    color: salmon;
+    font-family: 'Saira Condensed', sans-serif;
+    
+}
+
+/* fontwight no es lo mismo que tamano, es el peso, no el tamano, no lleva medidas */
+h1 {
+    font-weight: 100;
+
+    /* cuando tienen el mismo peso, elige el ultimo valor y misma propiedad */
+}
+p {
+    color: sandybrown;
+    font-weight: 900;
+}
